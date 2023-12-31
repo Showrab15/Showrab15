@@ -1,7 +1,6 @@
-(https://media.licdn.com/dms/image/D5616AQEfWN8YxKhYog/profile-displaybackgroundimage-shrink_350_1400/0/1685692004849?e=1709769600&v=beta&t=OaIb5RQ9Q714HpHawi3MYJB6PBN8K6CZjKayBYqEaJ4)
 ### Hi there 👋, my name is Showrab Paul
 #### I am MERN Stack Developer
-![I am MERN Stack Developer]
+![I am MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQEfWN8YxKhYog/profile-displaybackgroundimage-shrink_350_1400/0/1685692004849?e=1709769600&v=beta&t=OaIb5RQ9Q714HpHawi3MYJB6PBN8K6CZjKayBYqEaJ4)
 
 I’m a passionate MERN Stack developer. Aspiring MERN Stack developer with a strong passion for coding and a deep curiosity for building innovative web applications. I'm skilled in front-end development using JavaScript, React, and HTML/CSS, as well as back-end development with Node.js, Express, and MongoDB. Experienced in implementing REST full APIs, user authentication, and database management. Strong problem-solving abilities and a commitment to writing clean and maintainable code. I’m eager to apply my skills and knowledge to a professional team.
 
