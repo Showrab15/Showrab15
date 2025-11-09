@@ -19,7 +19,7 @@
 ### [🏥 Skale](https://skale-clone.vercel.app/)  
 Developed a pixel-perfect replica of the Skale website with fully responsive layouts across desktop, tablet, and mobile devices.  
 **Features:**  
-✅ Interactive animations and dynamic sections (Projects, Process, Testimonials) enhanced user engagement and workflow clarity.
+✅ Interactive animations and dynamic sections (Projects, Process, Testimonials) enhanced user engagement and workflow clarity. <br/>
 ✅ Optimised and scalable architecture using modular components, lazy loading, and Next.js for faster loading.
 **Tech:** Next.js, TypeScript, GSAP, Tailwind CSS, Framer Motion, React Observation, React Hooks
 
