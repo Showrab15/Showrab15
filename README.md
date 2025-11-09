@@ -16,13 +16,12 @@
 
 ## 🌟 Featured Projects  
 
-### [🏥 Bethel Hospital](https://majestic-paprenjak-9afdb8.netlify.app/)  
-Interactive hospital website designed to improve patient engagement.  
+### [🏥 Skale](https://skale-clone.vercel.app/)  
+Developed a pixel-perfect replica of the Skale website with fully responsive layouts across desktop, tablet, and mobile devices.  
 **Features:**  
-✅ Animated department overviews & interactive statistics  
-✅ Direct-call scheduling (**+20% appointment bookings**)  
-✅ Google Maps integration for easy navigation  
-**Tech:** React, Tailwind CSS, Framer Motion, Google Maps API  
+⚡ Interactive animations and dynamic sections (Projects, Process, Testimonials) enhanced user engagement and workflow clarity.
+🚀 Optimised and scalable architecture using modular components, lazy loading, and Next.js for faster loading.
+**Tech:** Next.js, TypeScript, GSAP, Tailwind CSS, Framer Motion, React Observation, React Hooks
 
 ---
 
