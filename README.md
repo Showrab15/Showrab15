@@ -20,7 +20,7 @@
 Developed a pixel-perfect replica of the Skale website with fully responsive layouts across desktop, tablet, and mobile devices.  
 **Features:**  
 ✅ Interactive animations and dynamic sections (Projects, Process, Testimonials) enhanced user engagement and workflow clarity. <br/>
-✅ Optimised and scalable architecture using modular components, lazy loading, and Next.js for faster loading. <br/>
+✅ Optimised and scalable architecture using modular components, lazy loading, and Next.js for faster loading. <br/> <br/>
 **Tech:** Next.js, TypeScript, GSAP, Tailwind CSS, Framer Motion, React Observation, React Hooks
 
 ---
@@ -31,7 +31,7 @@ A secure event management web application.
 ✅ Role-based login system (custom auth, no third-party libraries)  
 ✅ Date-based filtering (Today, Week, Month events)  
 ✅ Dynamic navbar with role-based access  <br/>
-**Tech:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Axios, Cors, Dotenv, Serverless-http, Jsonwebtoken, Cookie-parser
+**Tech:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Axios, Cors, Dotenv, Serverless-http, Jsonwebtoken, Cookie-parser <br/><br/>
 
 ---
 
