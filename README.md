@@ -17,7 +17,7 @@
 ## 🌟 Featured Projects  
 
 ### [🏥 Skale](https://skale-clone.vercel.app/)  
-Developed a pixel-perfect replica of the Skale website with fully responsive layouts across desktop, tablet, and mobile devices.  
+Developed a pixel-perfect replica of the Skale website with fully responsive layouts across desktop, tablet, and mobile devices.  <br/><br/>
 **Features:**  
 ✅ Interactive animations and dynamic sections (Projects, Process, Testimonials) enhanced user engagement and workflow clarity. <br/>
 ✅ Optimised and scalable architecture using modular components, lazy loading, and Next.js for faster loading. <br/> <br/>
@@ -26,7 +26,7 @@ Developed a pixel-perfect replica of the Skale website with fully responsive lay
 ---
 
 ### [🎟 EventAura](https://eventa-aura.vercel.app/)  
-A secure event management web application.  
+A secure event management web application.  <br/><br/>
 **Features:**  
 ✅ Role-based login system (custom auth, no third-party libraries)  
 ✅ Date-based filtering (Today, Week, Month events)  
@@ -36,7 +36,7 @@ A secure event management web application.
 ---
 
 ### [🌐 Foreign Language Camp](https://foreign-language-camp.web.app/)  
-Class booking and payment management system for language learners.  
+Class booking and payment management system for language learners. <br/><br/> 
 **Features:**  
 ✅ Private role-based routes with secure payments (Stripe.js)  
 ✅ Popular Classes & Top Instructors sections  
