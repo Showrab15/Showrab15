@@ -7,10 +7,10 @@
 
 ## 🚀 About Me  
 - 🔹 Skilled in **React, Next.js, Node.js, Express, MongoDB, JWT, Firebase**  
-- 🔹 Proficient in **responsive UI design** with **Tailwind CSS & Framer Motion**  
+- 🔹 Proficient in **responsive UI design** with **Tailwind CSS, **GSAP** & Framer Motion**  
 - 🔹 Focused on **SEO optimization** & **cross-browser compatibility**  
 - 🔹 Previously wroked as a **Full-Stack Developer at Creative Lance**  & **Back End Developer at DogSwag India Limited** 
-- 🔹 Open to **Frontend / Full-Stack Developer roles**  
+- 🔹 Open to **Frontend Developer / Full-Stack Developer roles / MERN Stack Developer**  
 
 ---
 
@@ -31,7 +31,7 @@ A secure event management web application.
 ✅ Role-based login system (custom auth, no third-party libraries)  
 ✅ Date-based filtering (Today, Week, Month events)  
 ✅ Dynamic navbar with role-based access  
-**Tech:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS  
+**Tech:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Axios, Cors, Dotenv, Serverless-http, Jsonwebtoken, Cookie-parser
 
 ---
 
@@ -41,14 +41,13 @@ Class booking and payment management system for language learners.
 ✅ Private role-based routes with secure payments (Stripe.js)  
 ✅ Popular Classes & Top Instructors sections  
 ✅ Instructor feedback system for approvals/denials  
-**Tech:** React, Firebase, Node.js, MongoDB, JWT, Tailwind CSS  
 
 ---
 
 ## 🛠 Tech Stack  
-**Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Express.js, MongoDB, JWT  
-**Tools & Others:** Git, GitHub, Vercel, Netlify, Figma, Stripe.js  
+**Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Tanstack Query, Axios, Tailwind CSS, Framer Motion, Sweetalert, React Icons
+**Backend:** Node.js, Express.js, MongoDB, JWT, Cors, Dotenv, 
+**Tools & Others:** Git, GitHub, Vercel, Netlify, Figma, Stripe.js, IMGBB 
 
 ---
 
