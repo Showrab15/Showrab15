@@ -30,7 +30,7 @@ A secure event management web application.
 **Features:**  
 ✅ Role-based login system (custom auth, no third-party libraries)  
 ✅ Date-based filtering (Today, Week, Month events)  
-✅ Dynamic navbar with role-based access  
+✅ Dynamic navbar with role-based access  <br/>
 **Tech:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS, Axios, Cors, Dotenv, Serverless-http, Jsonwebtoken, Cookie-parser
 
 ---
