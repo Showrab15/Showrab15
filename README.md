@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔹 Skilled in **React, Next.js, Node.js, Express, MongoDB, JWT, Firebase**  
+- 🔹 Skilled in **React, Next.js, Node.js, Express, MongoDB, JWT, Firebase** **Socket.io** 
 - 🔹 Proficient in **responsive UI design** with **Tailwind CSS, **GSAP** & Framer Motion**  
 - 🔹 Focused on **SEO optimization** & **cross-browser compatibility**  
 - 🔹 Previously wroked as a **Full-Stack Developer at Creative Lance**  & **Back End Developer at DogSwag India Limited** 
@@ -20,7 +20,7 @@
 Developed a pixel-perfect replica of the Skale website with fully responsive layouts across desktop, tablet, and mobile devices.  
 **Features:**  
 ✅ Interactive animations and dynamic sections (Projects, Process, Testimonials) enhanced user engagement and workflow clarity. <br/>
-✅ Optimised and scalable architecture using modular components, lazy loading, and Next.js for faster loading.
+✅ Optimised and scalable architecture using modular components, lazy loading, and Next.js for faster loading. <br/>
 **Tech:** Next.js, TypeScript, GSAP, Tailwind CSS, Framer Motion, React Observation, React Hooks
 
 ---
