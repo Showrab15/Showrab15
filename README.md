@@ -45,8 +45,8 @@ Class booking and payment management system for language learners.
 ---
 
 ## 🛠 Tech Stack  
-**Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Tanstack Query, Axios, Tailwind CSS, Framer Motion, Sweetalert, React Icons
-**Backend:** Node.js, Express.js, MongoDB, JWT, Cors, Dotenv, 
+**Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Tanstack Query, Axios, Tailwind CSS, Framer Motion, Sweetalert, React Icons <br/>
+**Backend:** Node.js, Express.js, MongoDB, JWT, Cors, Dotenv, <br/>
 **Tools & Others:** Git, GitHub, Vercel, Netlify, Figma, Stripe.js, IMGBB 
 
 ---
