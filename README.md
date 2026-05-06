@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 About Me  
-- 🔹 Skilled in **React, Next.js, Node.js, Express, MongoDB, JWT, Firebase** **Socket.io** 
-- 🔹 Proficient in **responsive UI design** with **Tailwind CSS, **GSAP** & Framer Motion**  
+- 🔹 Skilled in **React, Next.js, Node.js, Express, MongoDB, JWT, Firebase,** **Socket.io** 
+- 🔹 Proficient in **responsive UI design** with **Tailwind CSS, **Shadcn UI**, **GSAP** & Framer Motion**  
 - 🔹 Focused on **SEO optimization** & **cross-browser compatibility**  
 - 🔹 Previously wroked as a **Full-Stack Developer at Creative Lance**  & **Back End Developer at DogSwag India Limited** 
 - 🔹 Open to **Frontend Developer / Full-Stack Developer roles / MERN Stack Developer**  
@@ -45,7 +45,7 @@ Class booking and payment management system for language learners. <br/><br/>
 ---
 
 ## 🛠 Tech Stack  
-**Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Tanstack Query, Axios, Tailwind CSS, Framer Motion, Sweetalert, React Icons <br/>
+**Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Tanstack Query, Axios, Tailwind CSS, Bootstrap, Shadcn UI, Framer Motion, GSAP, Sweetalert, React Icons <br/>
 **Backend:** Node.js, Express.js, MongoDB, JWT, Cors, Dotenv, <br/>
 **Tools & Others:** Git, GitHub, Vercel, Netlify, Figma, Stripe.js, IMGBB 
 
@@ -56,5 +56,5 @@ Class booking and payment management system for language learners. <br/><br/>
 
 ## 📫 Connect with Me  
 [🌐 Portfolio](https://showrab-paul-portfolio.vercel.app/)  
-[💼 LinkedIn](https://www.linkedin.com/in/showrab15/)  
+[💼 LinkedIn](https://www.linkedin.com/in/showrab-dev/)  
 📧 **Email:** supto50showrab@gmail.com  
